@@ -1,6 +1,7 @@
 # Structura Project
 
-> **Mapping the pulse of civil engineering.** > Real-time geospatial intelligence for large-scale construction infrastructure.
+> **Mapping the pulse of civil engineering.**
+> Real-time geospatial intelligence for large-scale construction infrastructure.
 
 ---
 
