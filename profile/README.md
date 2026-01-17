@@ -28,7 +28,6 @@ Our stack is chosen for maximum performance, memory safety, and developer ergono
 
 - **[structura-core](https://github.com/structura-io/structura-core)**: The Rust engine. Handles data ingestion from `data.gouv.fr`, geocoding, and serving GeoJSON/Vector tiles.
 - **[structura-map](https://github.com/structura-io/structura-map)**: The Svelte-based dashboard. Featuring a custom MapLibre implementation for smooth data visualization.
-- **[structura-schema](https://github.com/structura-io/structura-schema)**: Centralized documentation, API specs (OpenAPI), and PostGIS database schemas.
 
 ---
 
@@ -38,9 +37,3 @@ Structura reconstructs project maps by cross-referencing multiple public data so
 1. **DECP (Commande Publique)**: Identifying contracts awarded to construction giants.
 2. **BAN (Base Adresse Nationale)**: Precise geocoding of administrative project locations.
 3. **Corporate Press Feeds**: Enhancing public data with official project descriptions and media.
-
----
-
-## 🚀 Vision
-
-Our goal is to provide transparency in the construction sector. By visualizing where and how infrastructure is built, we enable better urban planning analysis and public oversight of major civil engineering works.
